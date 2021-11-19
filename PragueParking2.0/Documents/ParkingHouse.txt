@@ -1,0 +1,7 @@
+﻿carsize:4:			size of an car
+mcsize:2:			size of an motorcycle
+parkingspot:4:		size of an spot
+parkinglot:100:		how many parkinglots
+mcprice:10:			price for parking mc
+carprice:20:		price for parking car
+freemin:10:			free parking minuts
